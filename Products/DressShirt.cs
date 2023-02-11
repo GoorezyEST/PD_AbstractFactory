@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 
 namespace AbstractFactory_PD.Products
 {
+    //Concrete class representing Dress shirt
+
     internal class DressShirt : Shirt
     {
     }
